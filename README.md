@@ -19,3 +19,4 @@ Setup & Installation
 Download and install Jenkins locally
 Access Jenkins at:
 http://localhost:8080
+“Jenkins was successfully configured to build the Docker image jenkins-app:latest, and the image was verified using the docker images command.”
