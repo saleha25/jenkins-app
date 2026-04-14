@@ -23,3 +23,13 @@ The pipeline is triggered automatically whenever code is pushed to the `main` br
 ```bash
 git clone https://github.com/saleha25/jenkins-app.git
 cd jenkins-app
+## Proof of CI/CD
+
+- Docker image successfully built and pushed to Docker Hub
+- GitHub Actions pipeline executed successfully
+- Application runs correctly in Docker container
+
+### Screenshots
+- Docker running locally (localhost)
+- GitHub Actions pipeline success
+- Docker Hub repository with latest image
