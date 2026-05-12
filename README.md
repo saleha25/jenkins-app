@@ -7,7 +7,7 @@ Asma
 ## Project Description
 This project is a simple HTML application containerized using Docker. It is used for DevOps Fall 2025 CLO3 Deliverable 4 to demonstrate an automated CI/CD pipeline using GitHub Actions, Docker Hub, and deployment automation.
 
-## CI/CD Pipeline Description
+## CI/CD Pipeline Description.
 The CI/CD pipeline performs the following tasks:
 1. Pulls the latest code from the GitHub repository
 2. Builds a Docker image for the application
